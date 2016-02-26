@@ -7,6 +7,7 @@ namespace Helloworld.Console
     {
         static void Main(string[] args)
         {
+            //输出
             Console.WriteLine("Helloworld");
             Console.Read();
         }
