@@ -5,6 +5,7 @@ namespace Helloworld.Console
 
     class Program
     {
+        //主函数
         static void Main(string[] args)
         {
             //输出
